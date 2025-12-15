@@ -8,7 +8,7 @@
 Перейдите на вкладку «Серверы», затем нажмите «Метки».
 В разделе «Не включают» введите список тегов через запятую:
 
-naykon,fox,bd33,serverigrcssource,no-steam,PAVLIK,MyArena.ru,nonsteam
+naykon,fox,bd33,serverigrcssource,no-steam,PAVLIK,MyArena.ru,nonsteam,с400
 
 Нажмите «ОК» и «Применить фильтры».
 
@@ -30,7 +30,7 @@ Open the Server Monitor in CS:S.
 Go to the “Servers” tab, then click “Tags.”
 In the “Do not include” section, enter a list of tags:
 
-naykon,fox,bd33,serverigrcssource,no-steam,PAVLIK,MyArena.ru,nonsteam
+naykon,fox,bd33,serverigrcssource,no-steam,PAVLIK,MyArena.ru,nonsteam,c400
 
 Click “OK” and “Apply Filters.”
 
