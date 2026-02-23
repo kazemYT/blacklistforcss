@@ -53,6 +53,7 @@ What it does:
 - Includes engine sound, dynamic light and sparks
 - Adds quick binds (F6-F10)
 - Has `script` command demo (for builds with VScript support)
+- Uses short chained aliases (safe for ~255 char command limit)
 
 How to run:
 1. Copy `css_fun_car.cfg` to `.../cstrike/cfg/`
