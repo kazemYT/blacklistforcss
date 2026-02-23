@@ -43,3 +43,21 @@ Open the Counter-Strike: Source folder. (usually C:\Program Files (x86)\Steam\st
 Go to the cfg folder and move the downloaded server_blacklist.txt file to cfg. That's it.
 
 Result: some of the P2W servers are removed, but there are still many of them.
+
+## Bonus: fun drivable car cfg for CS:S
+
+Added file: `cfg/css_fun_car.cfg`.
+
+What it does:
+- Spawns a drivable buggy (`prop_vehicle_driveable`)
+- Includes engine sound, dynamic light and sparks
+- Adds quick binds (F6-F10)
+- Has `script` command demo (for builds with VScript support)
+- Uses short chained aliases (safe for ~255 char command limit)
+
+How to run:
+1. Copy `css_fun_car.cfg` to `.../cstrike/cfg/`
+2. Start map with cheats: `sv_cheats 1`
+3. Execute: `exec css_fun_car`
+4. Spawn car: `car_spawn`
+5. Press `E` on buggy to drive
